@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Javi, Josh, Ryan, Tarj"
 format: html
 embed-resources: true
 editor: visual
