@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Tarj Mecwan, Ryan Vu, Javi Zialcita, Joshua Winn"
 format: html
 embed-resources: true
 editor: visual
